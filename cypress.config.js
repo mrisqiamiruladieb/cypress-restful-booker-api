@@ -8,6 +8,8 @@ module.exports = defineConfig({
     },
     env: {
         username : 'admin',
-        password : 'password123'
+        password : 'password123',
+        firstname : 'sally',
+        lastname : 'brown'
     }
 })
